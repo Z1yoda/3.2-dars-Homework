@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Public Sans", sans-serif;
+  border: none;
+  list-style: none;
+  text-decoration: none;
+}
+html,
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+.header_nav {
+  list-style: none;
+}
+.header_btn {
+  border: none;
+}
+h1,
+h2,
+h3 {
+  font-family: "DM Serif Display", serif;
+}
+input {
+  outline: transparent;
+}
